@@ -318,6 +318,23 @@ button:active {
   margin-bottom: 24px;
 }
 
+.about-me-h {
+  font-weight: bold;
+  line-height: 52px;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 70px;
+}
+
+.about-text {
+  width: 327px;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #172b4d;
+  margin-top: 14px;
+}
+
 .green-btn {
   background-color: #36b37f;
   padding: 12px;
